@@ -1,4 +1,4 @@
-# CS85-Ai-Financial-Guided-Trading
+# CS85-Ai-Financial-Guided-Trading \nCapstone Project
 Capstone Project
 
 ***Director: Dr. Khushi***
