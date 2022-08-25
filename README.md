@@ -1,12 +1,13 @@
 # CS85-Ai-Financial-Guided-Trading
-Capstone Project
+# Capstone Project
 
 ***Director: Dr. Khushi***
 
 ***Tutor: Ling Qi***
 
+
 Group Members:
-<br>
+
 James Wang (510614658) (Leader)
 
 Ziying Cen (510497327) (Data Analyst)
