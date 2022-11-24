@@ -8,7 +8,7 @@ Github Link: https://github.com/AnnieMo-ZY/CS85-Ai-Guided-Financial-Trading
 ***Tutor: Ling Qi***
 
 
-1: Codes for finding the trading pattern and trading events are in each member's folder
+1: Codes for finding the trading patterns and trading events are under each member's folder
 
 James Wang - MACD （Columns: dir_change, two_peaks)
 
